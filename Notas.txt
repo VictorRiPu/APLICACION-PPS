@@ -2,7 +2,7 @@ El grupo  que desarolla esta aplicacion esta formado por ;
 Aitor Lopez Guerrero 
 Andres Gomez Ocaña
 Daniel 
-David 
+David Zurkiewicz Redondo
 Mario Álvarez Alba
 
 La aplicaion que se va desarollar es ....
