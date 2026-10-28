@@ -1,4 +1,5 @@
 El grupo  que desarolla esta aplicacion esta formado por ; 
+
 Aitor Lopez Guerrero 
 
 Andres Gomez Ocaña
