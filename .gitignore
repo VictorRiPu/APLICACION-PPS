@@ -1,0 +1,30 @@
+# Secretos (nunca subir)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Dependencias
+node_modules/
+venv/
+.venv/
+
+# Compilados
+dist/
+build/
+__pycache__/
+
+# Logs y bases de datos locales
+*.log
+*.sqlite
+*.db
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
