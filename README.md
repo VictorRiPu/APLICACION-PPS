@@ -4,7 +4,7 @@ Aitor Lopez Guerrero
 
 Andres Gomez Ocaña
 
-Daniel 
+Daniel Sánchez Ortega
 
 David Zurkiewicz Redondo
 
